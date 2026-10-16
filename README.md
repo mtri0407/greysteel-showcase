@@ -2,7 +2,7 @@
 
 **The full operating system of a real tutoring center, built and run by one student developer.**
 
-Live: **[thegreysteel.com](https://thegreysteel.com)** · Hai Phong, Vietnam · July 2026 to present
+Live: **[thegreysteel.com](https://thegreysteel.com)** · Hai Phong, Vietnam · April 2026 to present
 
 [English](#english) · [Tiếng Việt](#tieng-viet)
 
