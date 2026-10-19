@@ -126,4 +126,4 @@ Mã nguồn đầy đủ nằm ở kho riêng tư vì chứa dữ liệu kinh do
 
 ---
 
-**Phạm Nguyễn Minh Trí** · Founder, Greysteel Education · [GitHub @mtri0407](https://github.com/mtri0407)
+**Phạm Nguyễn Minh Trí** · Founder & CEO, Greysteel Education · [GitHub @mtri0407](https://github.com/mtri0407)
