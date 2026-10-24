@@ -18,7 +18,7 @@ Live: **[thegreysteel.com](https://thegreysteel.com)** · Hai Phong, Vietnam · 
 
 ### What it is
 
-Greysteel is a tutoring center (SAT, French, Chinese) that I co-founded. Instead of buying separate tools, I built one web platform that runs the whole business: marketing site, student sign up, recruitment, class scheduling, homework, practice tests, payroll, documents, video lessons and an AI assistant team. Students, parents, tutors, HR and admins all log in to the same site and see different tools based on their role.
+Greysteel is a tutoring center (SAT, French, Chinese) that I founded and lead as CEO. Instead of buying separate tools, I built one web platform that runs the whole business: marketing site, student sign up, recruitment, class scheduling, homework, practice tests, payroll, documents, video lessons and an AI assistant team. Students, parents, tutors, HR and admins all log in to the same site and see different tools based on their role.
 
 ### Scale
 
@@ -93,7 +93,7 @@ JavaScript (vanilla), HTML, CSS, Google Apps Script, Google Sheets / Drive / Gma
 
 ### Đây là gì
 
-Greysteel là trung tâm gia sư (SAT, tiếng Pháp, tiếng Trung) do mình đồng sáng lập. Thay vì dùng nhiều phần mềm rời rạc, mình tự xây một nền tảng web vận hành toàn bộ trung tâm: trang giới thiệu, đăng ký học, tuyển dụng, xếp lịch lớp, bài tập, luyện đề, tính lương, kho tài liệu, video bài giảng và đội ngũ trợ lý AI. Học viên, phụ huynh, tutor, HR và admin cùng đăng nhập một web, mỗi vai trò thấy công cụ riêng.
+Greysteel là trung tâm gia sư (SAT, tiếng Pháp, tiếng Trung) do mình sáng lập và điều hành (Founder & CEO). Thay vì dùng nhiều phần mềm rời rạc, mình tự xây một nền tảng web vận hành toàn bộ trung tâm: trang giới thiệu, đăng ký học, tuyển dụng, xếp lịch lớp, bài tập, luyện đề, tính lương, kho tài liệu, video bài giảng và đội ngũ trợ lý AI. Học viên, phụ huynh, tutor, HR và admin cùng đăng nhập một web, mỗi vai trò thấy công cụ riêng.
 
 ### Quy mô
 
